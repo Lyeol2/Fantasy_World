@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"50ec918af0f5a116","type":"file","file":"천족.md","x":-1120,"y":-1000,"width":400,"height":400},
+		{"id":"120e3e80a2a92f9e","type":"file","file":"마족.md","x":-578,"y":-1000,"width":400,"height":400},
+		{"id":"912c2ea5f1f18756","type":"file","file":"2_생명/신.md","x":-840,"y":-1760,"width":400,"height":400},
+		{"id":"63dcd034fd81f5b2","type":"file","file":"2_생명/세계수.md","x":-840,"y":-440,"width":400,"height":400},
+		{"id":"98daedbd45186d4c","type":"file","file":"2_생명/인간.md","x":840,"y":200,"width":400,"height":400},
+		{"id":"da4bf2957820cdbd","type":"file","file":"황족.md","x":840,"y":-480,"width":400,"height":400},
+		{"id":"010ac67c9e8ed206","type":"file","file":"다크엘프.md","x":-920,"y":1080,"width":400,"height":400},
+		{"id":"2f46827dcc65351c","type":"file","file":"하이엘프.md","x":-320,"y":1080,"width":400,"height":400},
+		{"id":"608df858bd421137","type":"file","file":"하프엘프.md","x":360,"y":1080,"width":400,"height":400},
+		{"id":"dc082dd33fad23a7","type":"file","file":"2_생명/엘프.md","x":-320,"y":360,"width":400,"height":400},
+		{"id":"bf4e830c0df4257d","type":"file","file":"2_생명/정령.md","x":-1360,"y":360,"width":400,"height":400},
+		{"id":"4391133099afd1a3","type":"file","file":"요정.md","x":-840,"y":360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"6ceae75560edf715","fromNode":"912c2ea5f1f18756","fromSide":"bottom","toNode":"50ec918af0f5a116","toSide":"top"},
+		{"id":"9b5432a1cc2b0a4f","fromNode":"912c2ea5f1f18756","fromSide":"bottom","toNode":"120e3e80a2a92f9e","toSide":"top"},
+		{"id":"65e58abaa0366a77","fromNode":"120e3e80a2a92f9e","fromSide":"bottom","toNode":"63dcd034fd81f5b2","toSide":"top"},
+		{"id":"938b52f59907c77f","fromNode":"50ec918af0f5a116","fromSide":"bottom","toNode":"63dcd034fd81f5b2","toSide":"top"},
+		{"id":"f19de0879f36042e","fromNode":"63dcd034fd81f5b2","fromSide":"bottom","toNode":"bf4e830c0df4257d","toSide":"top"},
+		{"id":"3fe37e73016a2168","fromNode":"63dcd034fd81f5b2","fromSide":"bottom","toNode":"dc082dd33fad23a7","toSide":"top"},
+		{"id":"b26e7d341ea754ef","fromNode":"63dcd034fd81f5b2","fromSide":"bottom","toNode":"4391133099afd1a3","toSide":"top"},
+		{"id":"89ffa1c2e86fddba","fromNode":"dc082dd33fad23a7","fromSide":"bottom","toNode":"2f46827dcc65351c","toSide":"top"},
+		{"id":"d432080ad9793f02","fromNode":"dc082dd33fad23a7","fromSide":"bottom","toNode":"010ac67c9e8ed206","toSide":"top"},
+		{"id":"78b3ce2202ef7d12","fromNode":"912c2ea5f1f18756","fromSide":"bottom","toNode":"da4bf2957820cdbd","toSide":"top"},
+		{"id":"58528437c9662e28","fromNode":"da4bf2957820cdbd","fromSide":"bottom","toNode":"98daedbd45186d4c","toSide":"top"},
+		{"id":"17e61b64af176d01","fromNode":"dc082dd33fad23a7","fromSide":"bottom","toNode":"608df858bd421137","toSide":"top"},
+		{"id":"318cfcdf74ab03e2","fromNode":"98daedbd45186d4c","fromSide":"bottom","toNode":"608df858bd421137","toSide":"top"}
+	]
+}
